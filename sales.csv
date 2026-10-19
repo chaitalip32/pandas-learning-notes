@@ -1,0 +1,26 @@
+order_id,customer_name,category,product,quantity,unit_price_inr,order_date,city,sales_channel,order_status
+1001,Aarav Sharma,Electronics,Laptop,1,55000,1/5/2026,Mumbai,Online,Completed
+1002,Priya Patil,Home,Office Chair,2,6500,1/7/2026,Pune,,Completed
+1003,Rohan Mehta,Electronics,Wireless Mouse,3,850,1/9/2026,Nashik,Online,Completed
+1004,Sneha Kulkarni,Stationery,Notebook Pack,5,250,1/10/2026,Nagpur,Store,Completed
+1005,Vikram Joshi,Home,Desk Lamp,,1200,1/12/2026,Mumbai,Online,
+1006,Ananya Desai,Electronics,Keyboard,1,1800,1/14/2026,Pune,Online,Completed
+1007,Kabir Shah,Stationery,Printer Paper,4,320,1/15/2026,Nashik,Store,Completed
+1008,Isha Nair,Home,Bookshelf,1,7800,1/18/2026,Aurangabad,Online,Cancelled
+1009,Dev Malhotra,Electronics,Monitor,,12500,1/20/2026,Mumbai,Store,Completed
+1010,Meera Rao,Stationery,Pens Pack,6,180,1/22/2026,Pune,Online,Completed
+1011,Aditya Verma,Home,Study Table,1,9500,2/1/2026,Nagpur,Online,Completed
+1012,Kavya Iyer,Electronics,USB Drive,4,650,2/3/2026,,Store,Returned
+1013,Arjun Singh,Stationery,Whiteboard,1,2200,2/5/2026,Mumbai,,Completed
+1014,Tara Gupta,Home,Storage Box,3,450,2/8/2026,Pune,Store,Completed
+1015,Neil Fernandes,Electronics,Headphones,2,3200,,Aurangabad,Online,Completed
+1016,Sana Khan,Stationery,Sticky Notes,8,90,2/12/2026,Nashik,Online,Cancelled
+1017,Yash Thakur,Home,Bookshelf,1,8200,2/15/2026,Mumbai,Store,Completed
+,,,,,,,,,
+1019,Omkar Jadhav,Stationery,Notebook Pack,10,240,2/20/2026,Nagpur,Store,Completed
+1020,Zoya Ali,Home,Office Chair,1,6900,2/22/2026,Nashik,Online,Returned
+1021,Rahul Pawar,Electronics,Laptop,1,58000,3/2/2026,Mumbai,Store,Completed
+1022,Pooja Sane,Stationery,Printer Paper,7,310,3/5/2026,Pune,Online,Completed
+1023,Kunal Bhosale,Home,Desk Lamp,4,1150,3/8/2026,Aurangabad,Store,Completed
+1024,Riya Chavan,Electronics,Monitor,1,12800,3/12/2026,Nashik,Online,
+1025,Manav Kulkarni,Stationery,Pens Pack,12,175,3/15/2026,Mumbai,Online,Completed
