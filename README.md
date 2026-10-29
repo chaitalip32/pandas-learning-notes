@@ -23,7 +23,6 @@ tabular data.
 -   [Getting Started](#getting-started)
 -   [How to Use the Notebooks](#how-to-use-the-notebooks)
 -   [Practice Dataset](#practice-dataset)
--   [Learning Roadmap](#learning-roadmap)
 -   [Contributing and Feedback](#contributing-and-feedback)
 -   [Author](#author)
 
