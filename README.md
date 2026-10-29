@@ -84,14 +84,39 @@ Topics and examples will expand as I continue learning.
 ## Repository Structure
 
 ``` text
+## Repository Structure
+
+```text
 pandas-learning-notes/
+│
 ├── README.md
+├── Handling_Missing_Data_Replace_Interpolate_Notes.ipynb
+├── Merge_and_Concat_DataFrames.ipynb
+├── Pandas_GroupBy_Notes.ipynb
+├── Pandas_Melt_Pivot_PivotTable_Notes.ipynb
 ├── handling_missing_data_notes.ipynb
 ├── pandas_csv_complete_notes.ipynb
 ├── pandas_data_structure_and_arithmetic_operations.ipynb
 ├── pandas_dataframe_insert_pop_del_notes.ipynb
 ├── pandas_functions.ipynb
 └── sales.csv
+```
+
+### File Descriptions
+
+| File | Description |
+|---|---|
+| `README.md` | Overview of the repository, learning objectives, and resources. |
+| `Handling_Missing_Data_Replace_Interpolate_Notes.ipynb` | Notes and examples on handling missing data using replacement and interpolation techniques. |
+| `Merge_and_Concat_DataFrames.ipynb` | Examples of merging and concatenating DataFrames. |
+| `Pandas_GroupBy_Notes.ipynb` | Notes on grouping data and performing aggregate operations using `groupby()`. |
+| `Pandas_Melt_Pivot_PivotTable_Notes.ipynb` | Examples of reshaping data using `melt()`, `pivot()`, and `pivot_table()`. |
+| `handling_missing_data_notes.ipynb` | Notes on identifying, handling, and analyzing missing values. |
+| `pandas_csv_complete_notes.ipynb` | Examples of importing, reading, and working with CSV files. |
+| `pandas_data_structure_and_arithmetic_operations.ipynb` | Notes on Pandas data structures and arithmetic and logical operations. |
+| `pandas_dataframe_insert_pop_del_notes.ipynb` | Examples of inserting, removing, and modifying DataFrame columns. |
+| `pandas_functions.ipynb` | Notes and examples covering commonly used Pandas functions. |
+| `sales.csv` | Sample sales dataset for practicing data manipulation and analysis. |
 ```
 
 The structure above highlights the main files visible in the repository.
@@ -194,21 +219,6 @@ print(df.describe(include="all"))
 
 Try answering questions about the dataset, checking for missing values,
 filtering rows, grouping records, and calculating summary statistics.
-
-## Learning Roadmap
-
-The following topics are planned areas for further practice; their
-presence here does not mean every topic has already been completed.
-
--   [ ] Data selection, filtering, sorting, and indexing
--   [ ] Descriptive statistics and aggregation
--   [ ] `groupby()` and grouped analysis
--   [ ] Merging, joining, and concatenating DataFrames
--   [ ] Duplicate detection and data cleaning
--   [ ] Date and time data
--   [ ] Exploratory data analysis mini-project
--   [ ] A documented end-to-end analysis using a real-world-style
-    dataset
 
 ## Contributing and Feedback
 
